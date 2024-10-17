@@ -8,7 +8,7 @@ Release:	4
 Summary:	Does your process have access to the web
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/LWP/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
